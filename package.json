@@ -1,0 +1,8 @@
+{
+  "name": "webwaka-suite-marketplace-control",
+  "version": "0.1.0",
+  "description": "WebWaka marketplace suite - control",
+  "scripts": {
+    "test": "echo 'No tests yet' && exit 0"
+  }
+}
